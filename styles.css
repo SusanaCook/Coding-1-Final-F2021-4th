@@ -2,13 +2,18 @@ body {
     background-color: burlywood;
 }
 p {
-    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-img {
-    max-width: 100%;
-    height: auto;
+a {
+    font-size: x-large;
 }
-.btn-primary {
-    font-size: 24px;
-    color: black;
+.contact {
+    background-color: burlywood;
+}
+.card-image {
+    height: 16rem;
+}
+.logo {
+    width: 15px;
+    height: 15px;
 }
