@@ -7,7 +7,9 @@ p2 {
 a {
     font-size: large;
 }
-
+.col-md-6 {
+    background-color: whitesmoke;
+}
 .squig {
     height: 100px;
     width: 250px;
